@@ -1,0 +1,24 @@
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+*.sln
+.vs/
+.vscode
+.vsconfig
+*.vc.db
+*.opensdf
+*.opendb
+*.sdf
+*.suo
+*.xcodeproj
+*.xcworkspace
+
+# XG Package
+PackageTest/
+
+# lfs
+hooks/
+lfs/
+
